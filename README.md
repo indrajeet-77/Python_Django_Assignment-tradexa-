@@ -45,7 +45,7 @@ This project demonstrates a distributed system architecture where different data
 ## 📋 Prerequisites
 
 - Python 3.8+
-- Django 4.x
+- Django 
 - SQLite3 (comes with Python)
 
 ## 🛠️ Installation & Setup
