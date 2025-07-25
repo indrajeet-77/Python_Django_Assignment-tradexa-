@@ -45,7 +45,7 @@ This project demonstrates a distributed system architecture where different data
 ## 📋 Prerequisites
 
 - Python 3.8+
-- Django 
+- Django 5.0.4
 - SQLite3 (comes with Python)
 
 ## 🛠️ Installation & Setup
@@ -57,7 +57,7 @@ This project demonstrates a distributed system architecture where different data
 
 2. **Install Dependencies**
    ```bash
-   pip install django
+   pip install -r requirements.txt
    ```
 
 3. **Run Migrations for All Databases**
