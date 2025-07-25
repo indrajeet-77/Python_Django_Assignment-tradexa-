@@ -187,45 +187,9 @@ Product insert results: [
 ]
 ```
 
-## 📸 Screenshots
+##  Result pdf (documentation)
 
-### Django Models Implementation
-![Django Models](screenshots/02-models-code.png)
-*Django models for User, Product, and Order with separate database configurations*
 
-### Sample Data Arrays
-![Sample Data](screenshots/04-sample-data.png)
-*Test data arrays with validation test cases*
-
-### Validation Functions
-![Validation Logic](screenshots/04-validation-logic.png)
-*Application-level validation functions for each model*
-
-### Management Command Implementation
-![Populate Command Part 1](screenshots/03-populate-command-part1.png)
-![Populate Command Part 2](screenshots/03-populate-command-part2.png)
-*Threading-based concurrent insertion logic and command structure*
-
-### Database Router Configuration
-![Database Router](screenshots/05-database-router.png)
-*Custom router directing models to respective databases*
-
-### Database Migrations Process
-![Make Migrations](screenshots/06-makemigrations.png)
-*Creating migrations for the distributed_insert app*
-
-![Users Migration](screenshots/07-migration-users.png)
-*Applying migrations to users.db*
-
-![Products Migration](screenshots/08-migration-products.png)
-*Applying migrations to products.db*
-
-![Orders Migration](screenshots/09-migration-orders.png)
-*Applying migrations to orders.db*
-
-### Final Execution Results
-![Final Output](screenshots/10-final-output.png)
-*Concurrent insertion results showing successful operations and validation errors*
 
 ## 🔧 Configuration Details
 
@@ -294,5 +258,5 @@ This project is created for educational purposes as part of a Python Django Deve
 
 **Assignment Completed By**: [Your Name]  
 **Date**: [Current Date]  
-**Django Version**: 4.x  
+**Django Version**: 5.0.3
 **Python Version**: 3.8+
