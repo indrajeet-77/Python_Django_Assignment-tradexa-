@@ -256,7 +256,8 @@ This project is created for educational purposes as part of a Python Django Deve
 
 ---
 
-**Assignment Completed By**: [Your Name]  
-**Date**: [Current Date]  
+**Assignment Completed By**: Indrajeet Pimpalgaonkar
+
+**Date**: 25/07/2025  
 **Django Version**: 5.0.3
 **Python Version**: 3.8+
